@@ -8,7 +8,7 @@ This is a **Trello Clone** built using only **HTML & CSS** as a practice project
 
 ## 📸 Visual Preview
 
-<img src="Images/Trello-img-for-git.png" alt="Trello Landing Page" class="rounded-image" style="border-radius: 30px;">
+<img src="Images/Trello-img-for-git.png" alt="Trello Landing Page" class="rounded-image" style="border-radius: 30px">
 
 ## 🛠️ User Instructions
 1. **Clone the repository**
